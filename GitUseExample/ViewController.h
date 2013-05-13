@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController
 
-
 @property(nonatomic,retain) UITextField *text;
+@property(nonatomic,retain) UITextField *text1;
 @end
